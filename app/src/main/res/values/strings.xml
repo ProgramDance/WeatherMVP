@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherMvp</string>
+    <string name="weather_show_format">温度: %1$s\n湿度：%2$s\n空气质量：%3$s\n风向：%4$s\n风力：%5$s\n</string>
+</resources>
